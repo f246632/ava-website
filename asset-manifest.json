@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ava-website/static/css/main.99da70c0.css",
+    "main.js": "/ava-website/static/js/main.300ef968.js",
+    "static/js/453.48932c67.chunk.js": "/ava-website/static/js/453.48932c67.chunk.js",
+    "static/media/ava-profile.webp": "/ava-website/static/media/ava-profile.fa75b06f1a0086b732d3.webp",
+    "index.html": "/ava-website/index.html",
+    "main.99da70c0.css.map": "/ava-website/static/css/main.99da70c0.css.map",
+    "main.300ef968.js.map": "/ava-website/static/js/main.300ef968.js.map",
+    "453.48932c67.chunk.js.map": "/ava-website/static/js/453.48932c67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99da70c0.css",
+    "static/js/main.300ef968.js"
+  ]
+}
